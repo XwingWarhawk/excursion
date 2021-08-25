@@ -27,3 +27,33 @@ header p {
     color: gray;
     font-size: 22px;
 }
+
+#pictures {
+    text-align: center;
+}
+
+#pictures img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+footer h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+
+footer p {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+#copyright {
+    color: gray;
+    text-align: right;
+    float: right;
+}

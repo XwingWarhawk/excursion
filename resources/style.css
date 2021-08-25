@@ -1,17 +1,17 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+    text-align: center;
 }
 
 header h1 {
     font-weight: normal;
     color: white;
     font-size: 50px;
-    text-align: center;
 }
 
 header p {
     font-size: 16px;
     color: aquamarine;
-    text-align: center;
+    text-decoration: underline;
 }
